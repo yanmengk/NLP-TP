@@ -69,8 +69,6 @@ Knowing the minimum edit distance is useful for algorithms like ﬁnding potenti
 
 ------
 
-
-
 [^1]: 精神、心理治疗师
 [^2]: 分词
 
