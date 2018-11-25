@@ -10,11 +10,7 @@
 
 以下为分章节学习记录：
 
-chapter 2： 2018.11.23-  	update 11.24
+Chapter 2： 2018.11.23-2018.11.25 [学习笔记](https://github.com/yanmengk/NLP-TP/blob/master/contents/SLP_Learning.md)
 
-
-
-[学习笔记](https://github.com/yanmengk/NLP-TP/blob/master/contents/SLP_Learning.md)
-
-
+Chapter 3:    
 

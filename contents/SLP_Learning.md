@@ -1,16 +1,12 @@
-## Speech and Language Processing 3rd edition Learning Notes
+## Speech and Language Processing  Learning Notes
 
 ### Chapter-2：Regular Expressions, Text Normalization, Edit Distance
 
-**ELIZA**: an early natural language processing system that could carry on a limited conversation with a user by imitating the responses of a Rogerian psychotherapist[^1];**pattern-based method**。
-
-[^1]: 精神、心里治疗师
+**ELIZA**: an early natural language processing system that could carry on a limited conversation with a user by imitating the responses of a Rogerian psychotherapist（心理治疗师）;**pattern-based method**。
 
 **text normalization**: normalizing text means converting it to a more convenient, standard form.
 
-- tokenization[^2]
-
-[^2]: 分词
+- tokenization(分词)
 
 lemmatization：determining that two words have the same root, despite their surface differences.
 
@@ -68,4 +64,6 @@ Knowing the minimum edit distance is useful for algorithms like ﬁnding potenti
 
 
 
+
+### Chapter 3：Language Modeling with N-Grams
 
