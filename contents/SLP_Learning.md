@@ -4,9 +4,13 @@
 
 **ELIZA**: an early natural language processing system that could carry on a limited conversation with a user by imitating the responses of a Rogerian psychotherapist[^1];**pattern-based method**。
 
+[^1]: 精神、心里治疗师
+
 **text normalization**: normalizing text means converting it to a more convenient, standard form.
 
 - tokenization[^2]
+
+[^2]: 分词
 
 lemmatization：determining that two words have the same root, despite their surface differences.
 
@@ -15,7 +19,7 @@ lemmatization：determining that two words have the same root, despite their sur
 
 **edit distance**: measures how similar two strings are based on the number of edits (insertions, deletions, substitutions). Edit distance is an algorithm with applications throughout language processing, from spelling correction to speech recognition to coreference resolution.
 
-#### Regular expressions
+#### 1、Regular expressions
 
 **Regular experssion**: Formally, a regular expression is an algebraic notation for characterizing a set of strings.
 
@@ -23,7 +27,7 @@ Basic operations in regular expressions include concatenation of symbols, disjun
 
 
 
-#### Words
+#### 2、Words
 
 **Word type**: Types are the number of distinct words in a corpus.
 
@@ -31,7 +35,7 @@ Basic operations in regular expressions include concatenation of symbols, disjun
 
 
 
-#### Corpora
+#### 3、Corpora
 
 Perhaps the most important dimension of variation is the language. 
 
@@ -41,7 +45,7 @@ And ﬁnally, time matters too.
 
 
 
-#### Text normalization
+#### 4、Text normalization
 
 At least three tasks are commonly applied as part of any normalization process:
 
@@ -53,7 +57,7 @@ At least three tasks are commonly applied as part of any normalization process:
 
 
 
-#### Minimum edit distance
+#### 5、Minimum edit distance
 
 **the minimum edit distance** between two strings is deﬁned as the minimum number of editing operations (operations like insertion, deletion, substitution) needed to transform one string into another.
 
@@ -62,15 +66,6 @@ At least three tasks are commonly applied as part of any normalization process:
 Knowing the minimum edit distance is useful for algorithms like ﬁnding potential spelling error corrections. It can also provide the minimum cost alignment between two strings.
 
 
-
-
-
-
-
-------
-
-[^1]: 精神、心理治疗师
-[^2]: 分词
 
 
 
