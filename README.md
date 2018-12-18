@@ -32,5 +32,13 @@ Chapter 3:
 
 
 
+### 3.nlp_course from yandexdataschool 
+
+[Github项目](https://github.com/yandexdataschool/nlp_course)
+
+### 4. oxford-cs-deepnlp-2017
+
+### 5. Michael Collins [COMS W4705, Natural Language Processing](http://www.cs.columbia.edu/~mcollins/cs4705-fall2018/)
+
 
 
