@@ -48,5 +48,7 @@ Go on ...
 
 ### 5. Michael Collins [COMS W4705, Natural Language Processing](http://www.cs.columbia.edu/~mcollins/cs4705-fall2018/)
 
+### 6. Jacob Eisenstein. [Natural Language Processing](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
+### 7. Yoav Goldberg. [A Primer on Neural Network Models for Natural Language Processing](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)
 
