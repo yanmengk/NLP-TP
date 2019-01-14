@@ -16,6 +16,8 @@ Chapter 2： 2018.11.23-2018.11.25 [学习笔记](https://github.com/yanmengk/NL
 
 Chapter 3:    
 
+Chapter 4：
+
 
 
 ### 2.统计自然语言处理
