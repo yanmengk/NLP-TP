@@ -40,7 +40,7 @@ Chapter 4：
 
 第八章
 
-Go on ...
+Go on ......
 
 
 
